@@ -33,7 +33,7 @@ function App() {
               </div>
             </div>
             <div className="hero-art">
-              <img src="/images/hero.jpg" alt="Paisaje de El Salvador" />
+              <img src="/ruta503/images/hero.jpg" alt="Paisaje de El Salvador" />
               <span className="tag">Tres volcanes se ven desde la capital</span>
             </div>
           </div>
@@ -68,7 +68,7 @@ function App() {
 
           <div className="destinos-grid">
             <div className="destino">
-              <img src="/images/centro-historico.jpg" alt="Centro Histórico" />
+              <img src="/ruta503/images/centro-historico.jpg" alt="Centro Histórico" />
               <p className="region">San Salvador</p>
               <h3>Centro Histórico</h3>
               <p>El Palacio Nacional, la Catedral Metropolitana y el Teatro Nacional rodean una plaza que la alcaldía ha ido reabriendo edificio por edificio desde 2021.</p>
@@ -76,7 +76,7 @@ function App() {
             </div>
 
             <div className="destino">
-              <img src="/images/surf-city.jpg" alt="Surf City" />
+              <img src="/ruta503/images/surf-city.jpg" alt="Surf City" />
               <p className="region">La Libertad</p>
               <h3>Surf City — El Tunco y El Sunzal</h3>
               <p>Veintiún kilómetros de costa rocosa con olas de talla mundial, a media hora de la capital.</p>
@@ -84,7 +84,7 @@ function App() {
             </div>
 
             <div className="destino">
-              <img src="/images/ruta-flores.jpg" alt="Ruta de las Flores" />
+              <img src="/ruta503/images/ruta-flores.jpg" alt="Ruta de las Flores" />
               <p className="region">Sonsonate / Ahuachapán</p>
               <h3>Ruta de las Flores</h3>
               <p>Seis pueblos cafetaleros —Juayúa, Apaneca y Ataco— conectados por una carretera de curvas y murales.</p>
@@ -92,7 +92,7 @@ function App() {
             </div>
 
             <div className="destino">
-              <img src="/images/volcan-santa-ana.jpg" alt="Volcán de Santa Ana" />
+              <img src="/ruta503/images/volcan-santa-ana.jpg" alt="Volcán de Santa Ana" />
               <p className="region">Santa Ana</p>
               <h3>Volcán de Santa Ana y Lago de Coatepeque</h3>
               <p>Una caminata de hora y media lleva hasta un cráter turquesa humeante.</p>
@@ -100,7 +100,7 @@ function App() {
             </div>
 
             <div className="destino">
-              <img src="/images/joya-ceren.jpg" alt="Joya de Cerén" />
+              <img src="/ruta503/images/joya-ceren.jpg" alt="Joya de Cerén" />
               <p className="region">La Libertad</p>
               <h3>Joya de Cerén</h3>
               <p>Una aldea agrícola maya sepultada por ceniza volcánica hace 1,400 años. Patrimonio de la Humanidad.</p>
@@ -108,7 +108,7 @@ function App() {
             </div>
 
             <div className="destino">
-              <img src="/images/suchitoto.jpg" alt="Suchitoto" />
+              <img src="/ruta503/images/suchitoto.jpg" alt="Suchitoto" />
               <p className="region">Cuscatlán</p>
               <h3>Suchitoto</h3>
               <p>Calles empedradas, talleres de añil y el lago Suchitlán con lanchas para observar aves.</p>
@@ -116,7 +116,7 @@ function App() {
             </div>
 
             <div className="destino">
-              <img src="/images/el-imposible.jpg" alt="El Imposible" />
+              <img src="/ruta503/images/el-imposible.jpg" alt="El Imposible" />
               <p className="region">Ahuachapán</p>
               <h3>Parque Nacional El Imposible</h3>
               <p>Veinticinco kilómetros de senderos en la selva más biodiversa del país.</p>
@@ -124,7 +124,7 @@ function App() {
             </div>
 
             <div className="destino">
-              <img src="/images/perquin.jpg" alt="Perquín" />
+              <img src="/ruta503/images/perquin.jpg" alt="Perquín" />
               <p className="region">Morazán</p>
               <h3>Perquín y la Ruta de la Paz</h3>
               <p>Pueblo de montaña y antiguo bastión guerrillero, hoy sede del Museo de la Revolución.</p>
@@ -146,7 +146,7 @@ function App() {
             <div className="step">
               <span className="num">1</span>
               <div>
-                <img src="/images/juayua.jpg" alt="Juayúa" />
+                <img src="/ruta503/images/juayua.jpg" alt="Juayúa" />
                 <h3>Juayúa y su mercado gastronómico</h3>
                 <p>El Festival Gastronómico ocupa la plaza central todos los fines de semana.</p>
                 <span className="when">Sábado y domingo, desde las 9:00 a.m.</span>
@@ -155,7 +155,7 @@ function App() {
             <div className="step">
               <span className="num">2</span>
               <div>
-                <img src="/images/chorros.jpg" alt="Los Chorros" />
+                <img src="/ruta503/images/chorros.jpg" alt="Los Chorros" />
                 <h3>Los Chorros de la Calera</h3>
                 <p>Cascadas de agua termal a quince minutos caminando del centro de Juayúa.</p>
                 <span className="when">Entrada con guía local, media mañana</span>
@@ -164,7 +164,7 @@ function App() {
             <div className="step">
               <span className="num">3</span>
               <div>
-                <img src="/images/apaneca.jpg" alt="Apaneca" />
+                <img src="/ruta503/images/apaneca.jpg" alt="Apaneca" />
                 <h3>Apaneca y una finca de café</h3>
                 <p>El pueblo más alto de la ruta. Fincas abren recorridos del grano a la taza.</p>
                 <span className="when">Primera hora de la tarde</span>
@@ -173,7 +173,7 @@ function App() {
             <div className="step">
               <span className="num">4</span>
               <div>
-                <img src="/images/ataco.jpg" alt="Ataco" />
+                <img src="/ruta503/images/ataco.jpg" alt="Ataco" />
                 <h3>Concepción de Ataco al atardecer</h3>
                 <p>Fachadas pintadas y miradores hacia el valle cafetalero.</p>
                 <span className="when">Fin de tarde</span>
@@ -192,22 +192,22 @@ function App() {
 
           <div className="regiones-row">
             <div className="region-card">
-              <img src="/images/costa.jpg" alt="La costa" />
+              <img src="/ruta503/images/costa.jpg" alt="La costa" />
               <h3>La costa</h3>
               <p>Surf, pesca artesanal y pueblos de playa desde Los Cóbanos hasta Jiquilisco.</p>
             </div>
             <div className="region-card">
-              <img src="/images/valle-central.jpg" alt="Valle central" />
+              <img src="/ruta503/images/valle-central.jpg" alt="Valle central" />
               <h3>Valle central</h3>
               <p>San Salvador y sus volcanes, Suchitoto y el lago de Ilopango.</p>
             </div>
             <div className="region-card">
-              <img src="/images/occidente.jpg" alt="Occidente" />
+              <img src="/ruta503/images/occidente.jpg" alt="Occidente" />
               <h3>Occidente cafetalero</h3>
               <p>La Ruta de las Flores y el volcán de Santa Ana.</p>
             </div>
             <div className="region-card">
-              <img src="/images/oriente.jpg" alt="Oriente" />
+              <img src="/ruta503/images/oriente.jpg" alt="Oriente" />
               <h3>Oriente y Ruta de Paz</h3>
               <p>Montañas de Morazán y memoria histórica del conflicto armado.</p>
             </div>
