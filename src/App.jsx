@@ -28,7 +28,7 @@ function App() {
                 Veintiún mil kilómetros cuadrados caben en un solo itinerario: un lago de cráter antes del almuerzo, un pueblo cafetalero por la tarde y olas hasta que se meta el sol.
               </p>
               <div className="hero-actions">
-                <a href="#destinos" className="btn btn-oro">Ver los 8 destinos</a>
+                <a href="#destinos" className="btn btn-oro">Explorar destinos</a>
                 <a href="#ruta" className="btn btn-line">Un día en la Ruta de las Flores</a>
               </div>
             </div>
